@@ -1,0 +1,1 @@
+/Users/work/repos/distro-ecs/examples/royalties/shared/target/debug/libshared.rlib: /Users/work/repos/distro-ecs/examples/royalties/shared/src/lib.rs /Users/work/repos/distro-ecs/framework/distro-rs/src/lib.rs
